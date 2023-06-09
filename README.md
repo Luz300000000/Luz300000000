@@ -20,8 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luz300000000&show_icons=true&theme=dark&locale=en" alt="luz300000000" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/inesluz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inesluz" height="30" width="40" /></a>
-<a href="https://instagram.com/luz_300000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luz_300000000" height="30" width="40" /></a>
-</p>
