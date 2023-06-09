@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitgif.gif" alt="pixel-art-city"/>
+  <img src="gitgif.gif" alt="pixel-art-city" width="500" height="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Luz</h1>
