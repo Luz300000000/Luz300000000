@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning more about **web dev technologies**
 
-- 💬 Ask me about **anything!**
-
 - ⚡ Fun fact **I'm very passionate about game dev**
 
 ---
