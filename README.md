@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Luz</h1>
 <h3 align="center">A CS Student 💻 from Portugal</h3>
 
-- 🔭 I’m currently working on **my portfolio projects**
+- 🔭 I’m currently working on **my portfolio and college projects**
 
 - 🌱 I’m currently learning more about **web dev technologies**
 
