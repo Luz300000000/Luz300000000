@@ -28,6 +28,7 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href=https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" alt="sql" width="40" height="40"/> </a>
 </p>
 
 [![Luz300000000's GitHub stats](https://github-readme-stats.vercel.app/api?username=luz300000000&show_icons=true&theme=tokyonight)](#)
