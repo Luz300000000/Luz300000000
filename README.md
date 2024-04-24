@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio and college projects**
 
-- 🌱 I’m currently learning more about **web dev technologies**
+- 🌱 I’m currently learning more about **web technologies**
 
 - ⚡ Fun fact **I'm very passionate about game dev**
 
