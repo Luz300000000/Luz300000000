@@ -32,5 +32,3 @@
   <a href=https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" alt="sql" width="40" height="40"/> </a>
 </p>
 
-[![Luz300000000's GitHub stats](https://github-readme-stats.vercel.app/api?username=luz300000000&show_icons=true&theme=tokyonight)](#)
-
