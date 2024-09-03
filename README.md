@@ -3,13 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Luz</h1>
-<h3 align="center">A 3rd year CS Student 💻 from Portugal</h3>
-
-- 🔭 I’m currently working on **my portfolio and college projects**
-
-- 🌱 I’m currently learning more about **web technologies**
-
-- ⚡ Fun fact **I'm very passionate about game dev**
+<h3 align="center">Fullstack Developer 💻 Game Dev & Art Enthusiast 🎮 Coffee Lover ☕ </h3>
 
 ---
 
@@ -28,6 +22,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href=https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/hvK9JjjMrQ-MSP98UVqmwpgojkc89P5tYvLUbvbnAqORVx3o7mUhk_NNdSD4S9_F8pw" alt="sql" width="40" height="40"/> </a>
